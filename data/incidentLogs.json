@@ -1,0 +1,43 @@
+
+[
+  {
+    "agentId": "agent-007",
+    "agentName": "James B.",
+    "customerId": "cust-8923",
+    "sentiment": "positive",
+    "duration": 245,
+    "intent": "Loan Application"
+  },
+  {
+    "agentId": "agent-009",
+    "agentName": "Sarah C.",
+    "customerId": "cust-1122",
+    "sentiment": "neutral",
+    "duration": 180,
+    "intent": "Address Change"
+  },
+  {
+    "agentId": "agent-002",
+    "agentName": "Maria G.",
+    "customerId": "cust-5566",
+    "sentiment": "positive",
+    "duration": 310,
+    "intent": "New Account Setup"
+  },
+  {
+    "agentId": "agent-004",
+    "agentName": "David L.",
+    "customerId": "cust-7788",
+    "sentiment": "neutral",
+    "duration": 150,
+    "intent": "Password Reset"
+  },
+  {
+    "agentId": "agent-005",
+    "agentName": "Emily R.",
+    "customerId": "cust-9900",
+    "sentiment": "negative",
+    "duration": 550,
+    "intent": "Fraudulent Transaction"
+  }
+]

@@ -1,0 +1,5 @@
+{
+  "name": "Genesys Experience Orchestration Hub",
+  "description": "A high-fidelity Proof-of-Concept for a headless, AI-native contact center, simulating real-time experience orchestration for a global bank scenario.",
+  "requestFramePermissions": []
+}

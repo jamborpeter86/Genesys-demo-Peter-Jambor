@@ -1,0 +1,10 @@
+
+{
+  "id": "cust-12345",
+  "name": "Alex Smith",
+  "tier": "Platinum",
+  "isVerified": true,
+  "phone": "+1-555-123-4567",
+  "email": "alex.smith@example.com",
+  "avatarUrl": "https://i.pravatar.cc/150?u=alexsmith"
+}

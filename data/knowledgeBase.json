@@ -1,0 +1,21 @@
+
+[
+  {
+    "id": "kb-99",
+    "title": "High Risk Asset Disclaimer",
+    "content": "Before proceeding with crypto-related transactions, you must verbally confirm the user understands the risks. State: 'Please be aware that crypto assets are volatile and not covered by traditional deposit insurance. Do you wish to proceed?'",
+    "source": "doc://compliance/risk-disclosure-v4.pdf"
+  },
+  {
+    "id": "kb-1",
+    "title": "Crypto Card Activation Guide (Error 505)",
+    "content": "For 'Error 505', the user's mobile device clock is out of sync with network time. Instruct the user to go to their device's Date & Time settings and enable 'Set time automatically'. This will resolve the time-based token generation failure. Do not ask them to reinstall the app.",
+    "source": "doc://internal-kb/crypto-card-troubleshooting-v2.pdf"
+  },
+  {
+    "id": "kb-2",
+    "title": "Handling Frustrated Customers",
+    "content": "When sentiment is negative, use empathetic language. Phrases like 'I understand this is frustrating' and 'Let's solve this together' can help de-escalate the situation. Acknowledge the problem before providing a solution.",
+    "source": "doc://hr/de-escalation-tactics-q4.docx"
+  }
+]

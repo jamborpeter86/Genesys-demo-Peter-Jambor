@@ -1,0 +1,53 @@
+
+[
+  {
+    "id": "msg-1",
+    "sender": "user",
+    "text": "Hi, I just got my new Crypto-Native Debit Card.",
+    "timestamp": 1734771600000
+  },
+  {
+    "id": "msg-2",
+    "sender": "bot",
+    "text": "Welcome to Apex Global Bank! I can help with your new card. What would you like to know?",
+    "timestamp": 1734771602000
+  },
+  {
+    "id": "msg-3",
+    "sender": "user",
+    "text": "What are the fees?",
+    "timestamp": 1734771605000
+  },
+  {
+    "id": "msg-4",
+    "sender": "bot",
+    "text": "The Crypto-Native Debit Card has a 1.5% fee on all crypto-to-fiat conversions. There are no monthly maintenance fees.",
+    "timestamp": 1734771608000
+  },
+  {
+    "id": "msg-5",
+    "sender": "user",
+    "text": "Okay, thanks. Why is my activation failing with Error 505?",
+    "timestamp": 1734771612000,
+    "isStuckPoint": true
+  },
+  {
+    "id": "msg-6",
+    "sender": "bot",
+    "text": "I'm sorry, I don't have information on 'Error 505'. Could you please rephrase your question?",
+    "timestamp": 1734771615000
+  },
+  {
+    "id": "msg-7",
+    "sender": "user",
+    "text": "CARD ACTIVATION IS FAILING. ERROR CODE 505.",
+    "timestamp": 1734771618000,
+    "isStuckPoint": true
+  },
+  {
+    "id": "msg-8",
+    "sender": "bot",
+    "text": "I apologize, but I am unable to resolve this issue. Let me find someone who can help.",
+    "timestamp": 1734771621000
+  }
+]
